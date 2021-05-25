@@ -3,7 +3,7 @@ name: web_example web deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   web_build_and_deploy:
